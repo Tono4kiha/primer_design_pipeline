@@ -55,7 +55,7 @@ It enumerates candidate primers (18–27 nt) within the target region plus flank
 请参照官方文档安装所需依赖：
 
 - Python: <https://www.python.org/downloads/>
-- primer3-py: <https://primer3-py.readthedocs.io/>
+- primer3-py: <https://pypi.org/project/primer3-py/>
 - BLAST+: <https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/>
 
 > **Note:** 安装后请确保 `blastn` 和 `makeblastdb` 已正确加入 `PATH`。
